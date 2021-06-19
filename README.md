@@ -2,7 +2,7 @@
 
 [Why I got into programming](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarfie123&count_private=true&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarfie123&count_private=true&show_icons=true&theme=algolia&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarfie123&hide=jupyter%20notebook&theme=algolia&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
